@@ -1,8 +1,9 @@
 ---
-name: Z poniendo interesante...
+name: Zponiendo interesante...
 locale: es
 type: learning
 beta: false
+teacher_info: ''
 language: python
 id_format: "%05d"
 order: []
