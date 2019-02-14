@@ -13,7 +13,7 @@ nombre_de_usuario = input("Decime tu nombre, por favor! ")
 ``` python
 print ("Hola " + nombre_de_usuario + ". ¡Bienvenido a mi programa!")
 ```
+En el ejemplo anterior usamos un “truco” para imprimir el saludo, que puede serte muy útil de ahora en más: en `Python` podemos unir palabras o textos para generar frases o textos más largos simplemente sumándolas (`+`).
 
-
-
-
+Es hora de que lo intentes vos!
+¿Te animás a hacer tu programa saludador?
